@@ -124,8 +124,7 @@ visualizations/  CovidDataViz class shared by every notebook
 
 ## License and attribution
 
-Adapted from an MIT-licensed open-source analysis by **Sarvesh Kumar Sharma** —
-`Copyright (c) 2020 Sarvesh Kumar Sharma`, MIT Licence. The pipeline documentation,
+Adapted from an MIT-licensed open-source analysis. MIT Licence. The pipeline documentation,
 findings write-up and charts in this repository were reworked and extended for this project.
 See [LICENSE](LICENSE).
 
