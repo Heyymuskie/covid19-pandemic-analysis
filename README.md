@@ -130,5 +130,5 @@ See [LICENSE](LICENSE).
 
 ---
 
-**Muskan Choudhary** · [Portfolio](https://muskan-portfolio.vercel.app/projects/covid19-pandemic-analysis) ·
+**Muskan Choudhary** · [Portfolio](https://muskan-choudhary.vercel.app/projects/covid19-pandemic-analysis) ·
 [LinkedIn](https://www.linkedin.com/in/muskiee) · [GitHub](https://github.com/Heyymuskie)
